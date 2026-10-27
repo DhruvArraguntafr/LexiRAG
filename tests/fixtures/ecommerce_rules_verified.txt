@@ -1,0 +1,9 @@
+4. Duties of e-commerce entities
+(5) Every e-commerce entity shall ensure that the grievance officer referred to
+in sub-rule (4) acknowledges the receipt of any consumer complaint within forty-
+eight hours and redresses the complaint within one month from the date of receipt
+of the complaint.
+(9) Every e-commerce entity shall only record the consent of a consumer for
+the purchase of any good or service offered on its platform where such consent is
+expressed through an explicit and affirmative action, and no such entity shall record
+such consent automatically, including in the form of pre-ticked checkboxes.

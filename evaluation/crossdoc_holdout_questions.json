@@ -1,0 +1,9 @@
+{
+  "description": "Generation-only holdout: two new questions declared after freezing production comparison code; used once for real Gemini checks, not tuning. No retrieval labels or legal benchmark scores claimed.",
+  "k_per_document": 4,
+  "cases": [
+    {"id":"advertising_holdout","question":"Compare how the Act and E-Commerce Rules address misleading advertisements, false product descriptions and seller responsibility. Separate regulator powers from duties of sellers and platforms.","document_prefixes":["0ae7","54fed"],"relevant_prefixes":[]},
+    {"id":"privacy_consent_holdout","question":"Contrast the Act's approach to disclosure of a consumer's personal information with the E-Commerce Rules' requirement for affirmative purchase consent. Are these the same obligation? State only what the cited passages support.","document_prefixes":["0ae7","54fed"],"relevant_prefixes":[]}
+  ],
+  "negative_question":"Compare which uploaded Supreme Court judgment overturns each selected document, providing the appeal number and binding holding."
+}

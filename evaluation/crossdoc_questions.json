@@ -1,0 +1,11 @@
+{
+  "description": "Four new comparison questions frozen before the comparison-planner changes. Manually labelled relevant existing chunks; labels are not exhaustive legal judgments or a general benchmark. No previous scope/deadline question is repeated.",
+  "k_per_document": 4,
+  "cases": [
+    {"id":"information","question":"Contrast the right to product information in the Act with the information sellers and platforms must disclose under the E-Commerce Rules. What is shared and what is more specific?", "document_prefixes":["0ae7","54fed"],"relevant_prefixes":["e2bb0f","4a2435","72e4c7","4b1b5a","897d3f","0d1563","761561"]},
+    {"id":"redress","question":"Compare how a consumer can obtain redress through the Act's District Commission and through the Rules' grievance officer. Distinguish their procedures and duties.","document_prefixes":["0ae7","54fed"],"relevant_prefixes":["e33df3","13d28f","bc5e60","14089f","b87cd1","7b4ff6","87f894"]},
+    {"id":"returns","question":"What similarities and differences do the Act and E-Commerce Rules contain concerning defective goods, returning payments and refund obligations?", "document_prefixes":["0ae7","54fed"],"relevant_prefixes":["cda941","13d28f","bc5e60","160fe7","4d5063","761561","51bbaf","916cea"]},
+    {"id":"consent_audit","question":"How do the Rules and Advisory-7 address automatic consent and dark patterns, and how do ongoing duties differ from the advisory's self-audit approach?", "document_prefixes":["54fed","f118"],"relevant_prefixes":["161070","4ef0cd","ee5cda","c6ca4b","5e1247","9595ce","94c124"]}
+  ],
+  "negative_question":"Compare which uploaded Supreme Court judgment overturns each selected document, providing the appeal number and binding holding."
+}

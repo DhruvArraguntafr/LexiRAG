@@ -1,0 +1,7 @@
+-r requirements.txt
+ragas>=0.4,<0.5
+# Ragas 0.4 imports VertexAI compatibility symbols removed in community 0.4.2.
+langchain-community==0.4.1
+instructor>=1.11,<2
+openai>=1.109,<3
+
